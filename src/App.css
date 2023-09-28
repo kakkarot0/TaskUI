@@ -84,7 +84,9 @@ form textarea {
   width: 95%;
   height: 5rem;
   resize: none;
-  background-color: #000000;
+  /* background-color: #000000; */
+  color: #000;  
+  background-color: #fff;  
   border: none;
 }
 
